@@ -19,7 +19,8 @@ ________________________________________________________________________________
 <pre>
 > firstly you have to sign-up...<br>
 > then login via your username...<br>
-> </pre>**click**<pre> on notifaction button ...<br></pre>
+> <b>**click**</b> on notifaction button ...<br>
+</pre>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/23396919/36641728-e354cf3a-1a5a-11e8-9516-3e628351d1a1.png" width="500px"/>

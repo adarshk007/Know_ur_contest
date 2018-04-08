@@ -26,3 +26,15 @@ ________________________________________________________________________________
 <img src="https://user-images.githubusercontent.com/23396919/36641728-e354cf3a-1a5a-11e8-9516-3e628351d1a1.png" width="500px"/>
  </p>
 
+___________________________________________________________________________________________________________________________________
+
+**HOW TO CONTRIBUTE?**
+<pre>
+<ul>
+<li>OPEN the Issue (Even If You Want to Make The Better UI)</li>
+<li>GET the Confirmation</li>
+<li>Fork the Repo</li>
+<li>Clone it on your Device Do the Changes</li>
+<li>Push To the Main Branch</li>
+</ul>
+</pre>
